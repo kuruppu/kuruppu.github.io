@@ -1,2 +1,4 @@
-name: Yashmika
+name: Yashmika Kuruppu
 	markdown: kramdown
+	
+permalink: /blog/:year/:month/:day/:title
