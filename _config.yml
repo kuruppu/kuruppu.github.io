@@ -1,5 +1,5 @@
 name: Yashmika Kuruppu
-markdown: kramdown
+markdown: Kramdown
 	
 permalink: /blog/:year/:month/:day/:title
 
